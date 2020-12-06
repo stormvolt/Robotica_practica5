@@ -39,7 +39,7 @@ episodes_to_watch = 10
 
 model_savefile = "/tmp/weights.dump"
 # Archivo donde esta la configuracion del escenario: un cacodemon en habitacion rectangular
-config_file_path = "/scenarios/simpler_basic.cfg"
+config_file_path = "../scenarios/simpler_basic.cfg"
 
 
 
