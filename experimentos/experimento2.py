@@ -49,7 +49,7 @@ load_model = False
 skip_learning = False
 
 # Configuration file path
-config_file_path = "../../scenarios/simpler_basic.cfg"
+config_file_path = "../scenarios/simpler_basic.cfg"
 # config_file_path = "../../scenarios/rocket_basic.cfg"
 # config_file_path = "../../scenarios/basic.cfg"
 
